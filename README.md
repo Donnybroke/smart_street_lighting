@@ -7,13 +7,13 @@ A Smart Street Lighting System would,as the name suggests, try to work with litt
 3.Proximity sensors(PIR,ULtrasonic) ensure maximum brightness is utilized especially when objects are at predetermined distances at the vicinity.
 A combination of these 3 form a robust system,but unfortunately for my project,I implemented the Light (LDR) and ULtrasonic sensors,as they provide much more varied and volatile data.
 ## Components
-1.Sensors-PIR/Ultrasonic,Light,Current,Voltage ,Temperature and Humidity 
-1.MCUs-Arduino R3 and ESP8266
-1.Power supply-battery and/or AC supply
-1.Breadboards
-1.Load-LEDs,Resistors etc
-1.Real Time Clock
-1.Software-Arduino IDE
+1. Sensors-PIR/Ultrasonic,Light,Current,Voltage ,Temperature and Humidity 
+1. MCUs-Arduino R3 and ESP8266
+1. Power supply-battery and/or AC supply
+1. Breadboards
+1. Load-LEDs,Resistors etc
+1. Real Time Clock
+1. Software-Arduino IDE
 ## Block Diagram
 ![image](https://github.com/Donnybroke/smart_street_lighting/assets/92339420/dd358934-1703-4ef7-a38d-70352f04fbc3)
 
